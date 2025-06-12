@@ -21,8 +21,10 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.icons8.com/?size=60&id=122637&format=png"/>
-  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png"/>
+<p align="center">
+<a href = "https://nodejs.org/en">
+<img src="https://img.icons8.com/?size=60&id=122637&format=png"/>
+</a>  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png"/>
   <img src="https://img.icons8.com/?size=80&id=WNoJgbzDr3i2&format=png"/>
   <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png"/>
   <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
