@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Harshkumar Vankhede</h1>
+<h1 align="center">Hi 👋, I'm Harshkumar Vankhede</h1>
 <p align="center">
   <b>DSA Enthusiast | MERN Developer | Spring Boot</b>
 </p>
