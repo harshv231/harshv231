@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harshkumar Vankhede</h1>
 <p align="center">
-  <b>MERN Developer | DSA Enthusiast | Spring Boot Enthusiast</b>
+  <b>DSA Enthusiast | MERN Developer | Spring Boot Enthusiast</b>
 </p>
 
 ---
