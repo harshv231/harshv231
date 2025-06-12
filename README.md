@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/?size=80&id=WNoJgbzDr3i2&format=png"/>
   </a>
   <a href = "https://www.mongodb.com/">
-  <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=74402&format=png"/>
   </a>
   <a href = "https://www.java.com/en/">
   <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
