@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Harsh Vankhede</h1>
+<h1 align="center">Hey 👋, I'm Harshkumar Vankhede</h1>
 <p align="center">
-  <b>MERN Developer | DSA Lover | 3rd Year CSE | Spring Boot Enthusiast</b>
+  <b>MERN Developer | DSA Enthusiast | Spring Boot Enthusiast</b>
 </p>
 
 ---
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 <p align="center">
   <a href="https://github.com/HarshVankhede/mern-dating-app">
@@ -15,18 +15,22 @@
   <a href="https://github.com/HarshVankhede/player-auction-platform">
     <img src="https://img.icons8.com/fluency/144/cricket.png" alt="Player Auction" width="100"/>
   </a>
-</p>
+</p> -->
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.icons8.com/?size=60&id=122637&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png"/>
+  <img src="https://img.icons8.com/?size=80&id=WNoJgbzDr3i2&format=png"/>
+  <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=108784&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=v8RpPQUwv0N8&format=png"/>
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png"/>
+
+
 </p>
 
 ---
