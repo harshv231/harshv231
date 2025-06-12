@@ -55,8 +55,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Connect with me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshVankhede&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshVankhede&theme=radical"/>
+<a href = "https://www.linkedin.com/in/harshkumar-vankhede-8a282532a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY%2FlRL5zZQyKm6TY2kOmQ9Q%3D%3D">
+<img src="https://img.icons8.com/?size=96&id=13930&format=png"/>
+</a>
+<a href = "https://www.instagram.com/harsh__vankhede_02?igsh=MWNscGZoaGU1Y3VjMA==">
+  <img src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png"/>
+</a>
+<a href = "https://www.hackerrank.com/profile/harshvankhede231">
+  <img src="https://img.icons8.com/?size=160&id=iRVanPLYT6lT&format=png"/>
+</a>
+<a href = "https://codeforces.com/profile/HarshkumarVankhede">
+  <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png"/>
+</a>
+<a href = "https://leetcode.com/u/ywwyoK34Q0/">
+  <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png"/>
+</a>
+<a href = "">
+  <img src=""/>
+</a>
+<a href = "">
+  <img src=""/>
+</a>
+
 </p>
