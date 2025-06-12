@@ -72,11 +72,6 @@
 <a href = "https://leetcode.com/u/ywwyoK34Q0/">
   <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png"/>
 </a>
-<a href = "">
-  <img src=""/>
-</a>
-<a href = "">
-  <img src=""/>
-</a>
+
 
 </p>
