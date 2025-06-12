@@ -21,6 +21,12 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
+  <a href = "https://www.java.com/en/">
+  <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
+  </a>
+    <a href = "https://www.javascript.com/">
+  <img src="https://img.icons8.com/?size=96&id=108784&format=png"/>
+  </a>
 <a href = "https://react.dev/">
 <img src="https://img.icons8.com/?size=80&id=bzf0DqjXFHIW&format=png"/>
 </a>
@@ -33,13 +39,9 @@
   <a href = "https://www.mongodb.com/">
   <img src="https://img.icons8.com/?size=96&id=74402&format=png"/>
   </a>
-  <a href = "https://www.java.com/en/">
-  <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
-  </a>
   
-  <a href = "https://www.javascript.com/">
-  <img src="https://img.icons8.com/?size=96&id=108784&format=png"/>
-  </a>
+  
+
   <a href = "https://www.w3schools.com/html/">
   <img src="https://img.icons8.com/?size=96&id=v8RpPQUwv0N8&format=png"/>
   </a>
@@ -63,15 +65,16 @@
 <a href = "https://www.instagram.com/harsh__vankhede_02?igsh=MWNscGZoaGU1Y3VjMA==">
   <img src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png"/>
 </a>
+  <a href = "https://leetcode.com/u/ywwyoK34Q0/">
+  <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png"/>
+</a>
 <a href = "https://www.hackerrank.com/profile/harshvankhede231">
   <img src="https://img.icons8.com/?size=160&id=iRVanPLYT6lT&format=png"/>
 </a>
 <a href = "https://codeforces.com/profile/HarshkumarVankhede">
   <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png"/>
 </a>
-<a href = "https://leetcode.com/u/ywwyoK34Q0/">
-  <img src="https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png"/>
-</a>
+
 
 
 </p>
