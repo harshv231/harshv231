@@ -21,16 +21,34 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-<p align="center">
-<a href = "https://nodejs.org/en">
-<img src="https://img.icons8.com/?size=60&id=122637&format=png"/>
-</a>  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png"/>
+<a href = "https://react.dev/">
+<img src="https://img.icons8.com/?size=80&id=bzf0DqjXFHIW&format=png"/>
+</a>
+  <a href = "https://nodejs.org/en">
+  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png"/>
+  </a>
+  <a href = "https://expressjs.com/">
   <img src="https://img.icons8.com/?size=80&id=WNoJgbzDr3i2&format=png"/>
+  </a>
+  <a href = "https://www.mongodb.com/">
   <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png"/>
+  </a>
+  <a href = "https://www.java.com/en/">
   <img src="https://img.icons8.com/?size=96&id=13679&format=png"/>
+  </a>
+  
+  <a href = "https://www.javascript.com/">
   <img src="https://img.icons8.com/?size=96&id=108784&format=png"/>
+  </a>
+  <a href = "https://www.w3schools.com/html/">
   <img src="https://img.icons8.com/?size=96&id=v8RpPQUwv0N8&format=png"/>
+  </a>
+  <a href = "https://www.w3schools.com/css/">
   <img src="https://img.icons8.com/?size=96&id=21278&format=png"/>
+  </a>
+  <a href = "https://www.mysql.com/">
+  <img src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png"/>
+  </a>
 
 
 </p>
