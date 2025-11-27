@@ -71,9 +71,7 @@
 <a href = "https://www.hackerrank.com/profile/harshvankhede231">
   <img src="https://img.icons8.com/?size=160&id=iRVanPLYT6lT&format=png"/>
 </a>
-<a href = "https://codeforces.com/profile/HarshkumarVankhede">
-  <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png"/>
-</a>
+
 
 
 
