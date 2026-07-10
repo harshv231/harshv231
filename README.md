@@ -21,11 +21,11 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/harshv231">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="linkedin.com/in/harshkumar-vankhede-8a282532a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://harssh-vankhede-portolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome">
 </a>
 
