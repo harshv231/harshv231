@@ -51,7 +51,7 @@
 
 # About Me
 
-I'm **Harshkumar Vankhede**, a Computer Science undergraduate passionate about designing scalable software systems, building modern web applications, and solving real-world engineering problems through clean architecture and efficient code.
+I'm **Harshkumar Vankhede**, a Computer Science Engineering undergraduate passionate about designing scalable software systems, building modern web applications, and solving real-world engineering problems through clean architecture and efficient code.
 
 My primary expertise lies in **Full Stack Development** using the **MERN Stack**, complemented by a strong foundation in **Java**, **Spring Boot**, **Object-Oriented Programming**, **Database Design**, **Computer Networks**, and **Operating Systems**.
 
