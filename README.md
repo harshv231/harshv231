@@ -170,3 +170,248 @@ I enjoy transforming ideas into production-ready applications with an emphasis o
 
 ---
 
+
+
+
+
+
+
+
+
+
+---
+
+# Featured Projects
+
+<details open>
+<summary><b>💜 Dating Platform — Real-Time MERN Social Application</b></summary>
+
+<br>
+
+A modern full-stack dating platform designed with scalability, security, and real-time communication in mind. The application provides intelligent user discovery, secure authentication, private messaging, and community interactions while maintaining a responsive user experience across devices.
+
+| Category | Details |
+|-----------|----------|
+| **Stack** | React.js • Node.js • Express.js • MongoDB • Socket.io • JWT • WebSocket |
+| **Architecture** | MERN Stack with REST APIs & Real-Time Communication |
+| **Authentication** | JWT-based Authentication & Authorization |
+| **Database** | MongoDB |
+| **Performance** | Optimized API calls, responsive UI, efficient real-time messaging |
+| **Security** | JWT Authentication, Protected Routes, Input Validation |
+| **Impact** | Demonstrates scalable social networking architecture |
+| **Repository** | *Add GitHub Repository Link* |
+
+### Key Engineering Highlights
+
+- Designed a scalable MERN architecture separating frontend, backend, and database layers.
+- Built an interest-based swipe engine allowing users to like or reject profiles.
+- Developed a real-time private messaging system using Socket.io and WebSockets.
+- Implemented community chatrooms enabling users to join or create shared discussion spaces.
+- Added a rejected users management feature with an "Unreject" capability.
+- Secured all protected endpoints using JWT authentication.
+- Built reusable React components for improved maintainability.
+- Designed a fully responsive interface optimized for desktop and mobile devices.
+
+### Software Engineering Focus
+
+- RESTful API Design
+- Authentication & Authorization
+- State Management
+- Real-Time Systems
+- Database Modeling
+- Responsive UI Engineering
+
+</details>
+
+---
+
+<details open>
+<summary><b>💜 Therapy Activator — Online Mental Health Platform</b></summary>
+
+<br>
+
+A role-based healthcare platform connecting users with psychologists through secure session booking, private communication, and centralized administration. The project emphasizes secure authentication, user management, and scalable backend architecture.
+
+| Category | Details |
+|-----------|----------|
+| **Stack** | React.js • Node.js • Express.js • MongoDB • JWT • bcrypt • Tailwind CSS |
+| **Architecture** | MERN Stack |
+| **Authentication** | JWT + bcrypt Password Encryption |
+| **Database** | MongoDB |
+| **Performance** | Responsive dashboard and optimized backend APIs |
+| **Security** | Password Hashing, JWT Authentication, Protected Routes |
+| **Impact** | Digital healthcare workflow automation |
+| **Repository** | *Add GitHub Repository Link* |
+
+### Key Engineering Highlights
+
+- Designed role-based dashboards for Users, Psychologists, and Administrators.
+- Built a secure therapy session booking workflow.
+- Developed private one-to-one communication between psychologists and users.
+- Implemented secure authentication using JWT and bcrypt.
+- Created an administrative control panel for platform management.
+- Built reusable frontend components using React.
+- Developed scalable REST APIs using Express.js.
+- Designed responsive layouts using Tailwind CSS.
+
+### Software Engineering Focus
+
+- Authentication Systems
+- REST API Development
+- User Authorization
+- Database Design
+- Healthcare Workflow Management
+- Responsive UI Engineering
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineering Student
+
+**Parul University**  
+**2022 – Present**
+
+Computer Science undergraduate specializing in Full Stack Development with practical experience building scalable MERN applications, secure authentication systems, and real-time communication platforms.
+
+### Scope of Work
+
+- Designed complete MERN Stack applications from scratch.
+- Developed RESTful backend APIs.
+- Built responsive frontend applications using React.
+- Implemented JWT Authentication.
+- Worked with MongoDB database design.
+- Built Socket.io based communication systems.
+- Applied Object-Oriented Programming concepts.
+- Practiced Git-based version control workflows.
+- Strengthened understanding of DBMS, Operating Systems, and Computer Networks.
+- Solved Data Structures & Algorithms problems using Java.
+
+**Skills**
+
+`Java`
+`JavaScript`
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Spring Boot`
+`Git`
+`REST APIs`
+`JWT`
+`Socket.io`
+
+---
+
+# Engineering Highlights
+
+| Category | Achievement |
+|----------|-------------|
+| Full Stack Development | Developed complete MERN applications |
+| Backend Engineering | Designed scalable REST APIs |
+| Authentication | Implemented secure JWT authentication |
+| Real-Time Systems | Socket.io & WebSocket integration |
+| Database Design | MongoDB schema design |
+| Frontend Development | Responsive React interfaces |
+| Software Engineering | Clean architecture & modular code |
+| Version Control | Git & GitHub workflow |
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|----------|
+| 💜 MERN Developer | Built multiple production-ready full stack applications |
+| 💜 Software Engineering | Strong understanding of scalable backend systems |
+| 💜 Problem Solving | Regular DSA practice using Java |
+| 💜 Real-Time Systems | Developed Socket.io communication platform |
+| 💜 Authentication Systems | Secure JWT & bcrypt implementation |
+| 💜 Modern Web Development | React.js, Express.js, MongoDB ecosystem |
+| 💜 Team Collaboration | Experience working on end-to-end software projects |
+| 💜 Continuous Learning | Exploring AI, Machine Learning & Cloud Technologies |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS (Learning Path)
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-Learning-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Java-Programming-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Computer%20Networks-success?style=for-the-badge)
+
+**Computer Networks and Internet Protocol**  
+**IIT Kharagpur**
+
+---
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+## Hackathons
+
+![](https://img.shields.io/badge/HolboxAI-Holboxathon-6D28D9?style=for-the-badge)
+
+Participated in **Holboxathon**, gaining practical exposure to collaborative software development, problem-solving, and innovation under time constraints.
+
+---
+
+# Professional Strengths
+
+| Technical | Professional |
+|------------|--------------|
+| Full Stack Development | Team Collaboration |
+| REST APIs | Leadership |
+| MERN Stack | Adaptability |
+| Java Programming | Communication |
+| Authentication Systems | Problem Solving |
+| Database Design | Continuous Learning |
+| OOP | Ownership Mindset |
+| Version Control | Engineering Best Practices |
+
+---
+
+<div align="center">
+
+### Engineering elegant software through clean architecture, scalability, and continuous learning.
+
+</div>
+
+---
+
+**➡️ Part 2 Complete**
+
+**Part 3** will include:
+
+- Premium Coding Profiles
+- GitHub Readme Stats
+- Streak Stats
+- Top Languages
+- GitHub Trophies
+- Contribution Activity Graph
+- Snake Animation
+- Current Focus (YAML)
+- Connect Section
+- Professional Footer with Capsule Render Banner
+
+
