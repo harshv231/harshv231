@@ -390,19 +390,186 @@ Participated in **Holboxathon**, gaining practical exposure to collaborative sof
 
 ---
 
-**➡️ Part 2 Complete**
 
-**Part 3** will include:
 
-- Premium Coding Profiles
-- GitHub Readme Stats
-- Streak Stats
-- Top Languages
-- GitHub Trophies
-- Contribution Activity Graph
-- Snake Animation
-- Current Focus (YAML)
-- Connect Section
-- Professional Footer with Capsule Render Banner
+
+
+
+
+
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ywwyoK34Q0/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/harshvankhede231">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/harshshan1517">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshv231&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshv231&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshv231&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshv231&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshv231&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A78BFA"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshv231/harshv231/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** To enable the contribution snake animation, add the GitHub Action from:
+> https://github.com/Platane/snk
+
+---
+
+# Current Focus
+
+```yaml
+name: Harshkumar Vankhede
+
+currently_learning:
+  - Spring Boot
+  - Advanced MERN Stack
+  - Machine Learning
+  - Cloud Computing (AWS)
+  - System Design
+  - Backend Architecture
+
+currently_building:
+  - Production-Ready MERN Applications
+  - Scalable REST APIs
+  - Real-Time Web Applications
+  - AI-Integrated Projects
+
+currently_exploring:
+  - Docker
+  - Kubernetes
+  - Microservices
+  - CI/CD Pipelines
+  - Distributed Systems
+
+open_to:
+  - Software Engineer Roles
+  - Full Stack Developer Roles
+  - Backend Engineering
+  - AI/ML Opportunities
+  - Open Source Collaboration
+
+interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Problem Solving
+  - Product Development
+  - Scalable Systems
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:harshvankhede231@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Support My Work
+
+<div align="center">
+
+If you enjoy my projects or find them helpful, consider giving them a ⭐ and following my GitHub journey. I’m always excited to collaborate on impactful software engineering and open-source initiatives.
+
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+**Let's build scalable software, solve meaningful problems, and create impactful technology together.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4F46E5,35:6366F1,65:7C3AED,100:8B5CF6"/>
+
 
 
