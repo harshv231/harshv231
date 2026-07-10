@@ -41,9 +41,9 @@
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9&label=Followers)
+![](https://img.shields.io/github/followers/harshv231?style=for-the-badge&color=6D28D9&label=Followers)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Stars)
+![](https://img.shields.io/github/stars/harshv231?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Stars)
 
 </div>
 
