@@ -461,13 +461,7 @@ Participated in **Holboxathon**, gaining practical exposure to collaborative sof
 
 ---
 
-# Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harshv231/harshv231/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 
 ## 🐍 Contribution Snake
