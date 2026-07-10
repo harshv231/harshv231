@@ -469,9 +469,6 @@ Participated in **Holboxathon**, gaining practical exposure to collaborative sof
 
 </div>
 
-> **Note:** To enable the contribution snake animation, add the GitHub Action from:
-> https://github.com/Platane/snk
-
 
 ## 🐍 Contribution Snake
 
