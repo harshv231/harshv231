@@ -341,17 +341,6 @@ Computer Science undergraduate specializing in Full Stack Development with pract
 
 # Certifications
 
-## AWS (Learning Path)
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-Learning-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-Programming-F80000?style=for-the-badge&logo=oracle)
-
----
 
 ## NPTEL
 
@@ -362,9 +351,11 @@ Computer Science undergraduate specializing in Full Stack Development with pract
 
 ---
 
-## Cisco
+## NPTEL
 
-![](https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-1BA0D7?style=for-the-badge&logo=cisco)
+![](https://img.shields.io/badge/NPTEL-Introduction%20to%20IoT-success?style=for-the-badge)
+
+**Introduction to IoT**
 
 ---
 
