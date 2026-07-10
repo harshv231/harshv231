@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="linkedin.com/in/harshkumar-vankhede-8a282532a">
+<a href="[linkedin.com/in/harshkumar-vankhede-8a282532a](https://www.linkedin.com/in/harshkumar-vankhede-8a282532a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJFjwXdwBTZ2%2FU3N3HzoVUg%3D%3D)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
